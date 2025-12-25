@@ -1,0 +1,26 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+android/.gradle/
+ios/Pods/
+ios/.symlinks/
+linux/flutter/
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# OS
+.DS_Store
+Thumbs.db
